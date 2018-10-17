@@ -26,7 +26,8 @@
     "postcss": "^6.0.23"
   },
   "dependencies": {
-    "@coreui/coreui": "^2.0.3",
+    "@coreui/coreui": "^2.0.20",
+    "@coreui/coreui-plugin-npm-postinstall": "^1.0.2",
     "autosize": "^4.0.2",
     "bootstrap": "^4.1.1",
     "bootstrap-datepicker": "^1.8.0",
